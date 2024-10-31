@@ -6,15 +6,11 @@ body{
     background-color: white;
     font-family: 'Poppins', sans-serif;
     margin: 0;
-    git add .
-git commit -m "Menambahkan gambar raiden.jpg"
-git push origin main
-
     
-    background-size: cover;
+    background-image: url('gambar/raiden.jpg');
+    background-size: cover; 
     background-position: center;
-    background-attachment: fixed;
-    
+
 }
 
 .container{
