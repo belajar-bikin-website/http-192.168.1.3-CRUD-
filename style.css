@@ -7,6 +7,10 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
     background-image: url('gambar/raiden.jpg');
+    git add .
+git commit -m "Menambahkan gambar raiden.jpg"
+git push origin main
+
     
     background-size: cover;
     background-position: center;
