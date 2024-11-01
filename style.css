@@ -11,10 +11,6 @@ body{
     background-size: cover; 
     background-position: center;
     
-    git add .
-    git commit -m "Menambahkan background image"
-    git push origin main
-}
 
 .container{
     text-align: center;
