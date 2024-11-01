@@ -3,11 +3,10 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: white;
+    background-image: url('raiden.jpg');
     font-family: 'Poppins', sans-serif;
     margin: 0;
     
-    background-image: url('raiden.jpg');
     background-size: cover; 
     background-position: center;
     
