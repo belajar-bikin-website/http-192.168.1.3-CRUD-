@@ -19,7 +19,7 @@ body{
     padding: 20px;
     border: 1px solid #ffae00;
     border-radius: 10px;
-    box-shadow: 0 0 10px  rgb(from color r g b);   
+    box-shadow: 0 0 10px  #EE82EE;   
 }
 
 input {
@@ -27,14 +27,14 @@ input {
     font-size: 16px;
     border: none;
     border-radius: 5px;
-    background-color: #4caf50;
+    background-color: #9400D3;
     color: white;
     cursor: pointer;
 
 }
 
 button:hover {
-    background-color: #45a049
+    background-color: #FF00FF	
 }
 
 .hidden {
@@ -52,6 +52,6 @@ button:hover {
 }
 
 h1, p  {
-    color: #FFA500;
+    color: #FF00FF;
     margin-bottom: 20px;
 }
