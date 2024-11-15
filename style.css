@@ -6,7 +6,7 @@ body{
     background-color: rgb(from color r g b);
     font-family: 'Poppins', sans-serif;
     margin: 0;
-    background-image: url('.image/r.jpg);
+    background-image: url('r.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
